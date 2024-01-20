@@ -1,2 +1,2 @@
 # Reader.Twitter.Overlay
-inspiration: https://threadreaderapp.com/help/about
+Competitor: https://threadreaderapp.com/help/about, https://threadreaderapp.com/premium
